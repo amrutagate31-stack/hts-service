@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 4004
 
-CMD ["npx", "cds", "serve"]
+CMD ["npm", "start"]

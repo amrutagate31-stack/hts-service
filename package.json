@@ -11,7 +11,7 @@
     "@cap-js/sqlite": "^2"
   },
   "scripts": {
-    "start": "node node_modules/@sap/cds/bin/cds.js serve"
+    "start": "node ./node_modules/@sap/cds/bin/serve.js"
   },
   "private": true,
   "cds": {}
